@@ -1,5 +1,6 @@
 # myfirstpaper
-A paper on my results I found about  software carpentreology for the greater good
+An article on my results on software carpentreology for the greater good
+I found this data in a bin
 
 ## Abstract
 
